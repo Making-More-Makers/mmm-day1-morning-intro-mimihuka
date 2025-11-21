@@ -1,9 +1,9 @@
 # My Maker Profile
 # 我的 Maker 档案
 
-**Name | 姓名**: _________________
+**Name | 姓名**: Minghua Su
 
-**Date | 日期**: _________________
+**Date | 日期**: 2025.11.21
 
 ---
 
@@ -11,11 +11,11 @@
 
 ### Who am I? | 我是谁？
 
-**My name is | 我的名字是**: 
+**My name is | 我的名字是**: Minghua Su
 
-**My hobbies include | 我的爱好包括**: 
+**My hobbies include | 我的爱好包括**: Cycling, programming, photography.
 
-**One interesting thing about me | 关于我的一件有趣的事**: 
+**One interesting thing about me | 关于我的一件有趣的事**: I like film photography
 
 ---
 
@@ -23,13 +23,11 @@
 
 ### Why did I join the Making More Makers course? | 为什么参加 Making More Makers 课程？
 
-
-
+I joined the Making More Makers course because I want to learn how to turn my ideas into real, working projects.
 
 ### What do I hope to gain from this experience? | 我希望从这次经历中获得什么？
 
-
-
+I hope to gain practical skills in building and programming maker projects, learn how to use tools like Arduino and sensors effectively, and develop my ability to prototype and iterate on designs. I want to get deeper as a maker.
 
 ---
 
@@ -37,59 +35,55 @@
 
 ### Project Name (if you have one) | 项目名称（如果你有的话）
 
-
-
+Smart Plant Monitor (working title)
 ### What do I want to make? | 我想做什么？
 
 *Describe your project idea in 3-5 sentences*  
 *用 3-5 句话描述你的项目想法*
 
-
-
+This project act as a auto-fill water bottle on the desk. Instead of filling water from the top, which is inconvenient and takes a lot of space, this project focuses on filling water from the bottom. I planned to make a single way hole at the bottom of the water bottle, which can let water in. There's a base that carries on the bottle, which is connected to a water source (it may be a big water bucket), using water pump to push the water up.
 
 ### Why do I want to make this? | 为什么想做这个？
 
 *What problem does it solve? What excites you about it?*  
 *它解决什么问题？什么让你对它感到兴奋？*
 
-
-
+I want to make a small and simple desk bottle that can help me fill the water once I drank all of the water inside a bottle.
 
 ### What technologies or tools might I need? | 我可能需要什么技术或工具？
 
 *It's okay if you're not sure yet!*  
 *如果你还不确定，没关系！*
 
-- [ ] Arduino
-- [ ] ESP32
-- [ ] Sensors (which ones?: _________________)
-- [ ] LEDs / Lights
-- [ ] Motors / Servos
-- [ ] 3D Printing
+- [√] Arduino
+- [ ] ESP32√
+- [√] Sensors (which ones?: soil moisture sensor, light sensor, temperature sensor)
+- [√] LEDs / Lights
+- [√] Motors / Servos
+- [√] 3D Printing
 - [ ] AI / Machine Learning
-- [ ] Other: _________________
+- [ ] Other: small display screen or OLED display
 
 ---
 
 ## 🎓 What I Want to Learn | 我想学什么
-
+3d printing, laser cutting, arduino.
 ### Skills I want to develop | 我想发展的技能
-
+creativity, communication skills, perseverance.
 Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
-
+3
 评估你目前的水平（1 = 初学者，5 = 专家）以及你想达到的水平：
 
 | Skill | Current Level | Target Level |
 |-------|--------------|--------------|
-| Arduino Programming | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Circuit Building | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| 3D Design | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Git/GitHub | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Documentation | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
-| Problem Solving | ☐1 ☐2 ☐3 ☐4 ☐5 | ☐1 ☐2 ☐3 ☐4 ☐5 |
+| Arduino Programming | ☐1 ☐2 √3 ☐4 ☐5 | ☐1 ☐2 ☐3 √4 ☐5 |
+| Circuit Building | ☐1 ☐2 √3 ☐4 ☐5 | ☐1 ☐2 ☐3 √4 ☐5 |
+| 3D Design | ☐1 √2 ☐3 ☐4 ☐5 | ☐1 ☐2 √3 ☐4 ☐5 |
+| Git/GitHub | ☐1 ☐2 √3 ☐4 ☐5 | ☐1 ☐2 ☐3 √4 ☐5 |
+| Documentation | ☐1 ☐2 √3 ☐4 ☐5 | ☐1 ☐2 ☐3 √4 ☐5 |
+| Problem Solving | ☐1 ☐2 ☐3 √4 ☐5 | ☐1 ☐2 ☐3 ☐4 √5 |
 
 ### One specific thing I want to master | 我想掌握的一件具体事情
-
 
 
 ---
@@ -116,7 +110,6 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 
 
 
-
 ### Specific goals for each day | 每天的具体目标
 
 - **Day 1**: 
@@ -134,9 +127,7 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 
 
 
-
 ### Any concerns or questions? | 有任何顾虑或问题吗？
-
 
 
 
@@ -150,7 +141,7 @@ Rate your current level (1 = beginner, 5 = expert) and what you want to achieve:
 ```
 To add a photo:
 1. Upload the image to your repository
-2. Use this syntax: ![Description](image-filename.jpg)
+2. Use this syntax: ![dog-wallpaper](比格多栋壁纸.jpg)
 ```
 
 ---
@@ -158,16 +149,16 @@ To add a photo:
 ## 🚀 My Commitment | 我的承诺
 
 **I commit to | 我承诺**:
-- [ ] Being curious and asking questions
-- [ ] Trying things even if I might fail
-- [ ] Helping my teammates
-- [ ] Documenting my progress
-- [ ] Sharing what I learn
-- [ ] Having fun and being creative!
+- [√] Being curious and asking questions
+- [√] Trying things even if I might fail
+- [√] Helping my teammates
+- [√] Documenting my progress
+- [√] Sharing what I learn
+- [√] Having fun and being creative!
 
-**Signature | 签名**: _________________
+**Signature | 签名**: Minghua Su
 
-**Date | 日期**: _________________
+**Date | 日期**: 2025.11.21
 
 ---
 
